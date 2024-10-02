@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Dialog</string>
+    <string name="first_act_text">1-st Activity</string>
+    <string name="go_to_2nd_act">Go To 2-nd Activity</string>
+    <string name="dialog_button">Dialog</string>
+    <string name="back_button">Back</string>
+    <string name="second_act_text">Second Activity</string>
+    <string name="dialog_title">“NO.3 Group’s Dialog</string>
+    <string name="ok_button">OK</string>
+    <string name="ok_clicked_text">You Clicked OK!</string>
+    <string name="close_button">Close</string>
+    <string name="close_clicked_text">You closed dialog!</string>
+</resources>
